@@ -5,11 +5,11 @@
 
 ##使用環境
 
-*統合開発環境-----ECLIPSE2020
-*JAVA-------------JAVA11
-*フレームワーク---springbootver
-*データベース-----h2-database
-*webサーバ--------Tomcat v9.0
+* 統合開発環境-----ECLIPSE2020
+* JAVA-------------JAVA11
+* フレームワーク---springbootver
+* データベース-----h2-database
+* webサーバ--------Tomcat v9.0
 
 ## 主な機能
 
